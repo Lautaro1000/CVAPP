@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CV Hamza - App</string>
+    <string name="name">Hamza Benachir</string>
+    <string name="adresse">12 rue Cléry</string>
+    <string name="mobile">099999999</string>
+    <string name="email">hb@gmail.com</string>
+
+    <string name="titre_exp">Expériences</string>
+    <string name="titre_form">Formations</string>
+    <string name="titre_comp">Compétences</string>
+    <string name="titre_proj">Projets</string>
+</resources>

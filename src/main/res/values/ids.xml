@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewEntreprise" type="id" />
+    <item name="listViewExperiences" type="id" />
+    <item name="textViewEcole" type="id" />
+    <item name="textViewDiplome" type="id" />
+    <item name="listViewFormations" type="id" />
+</resources>
